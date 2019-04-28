@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
  */
 public class FrmBuku extends javax.swing.JFrame {
 
-    /**
+    /***
      * Creates new form 
      */
     public FrmBuku() {
